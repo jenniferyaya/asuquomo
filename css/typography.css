@@ -1,0 +1,41 @@
+/******************************** STYLES *******************/
+.body-reg {
+  font-family: 'Muli', sans-serif;
+  font-weight: 400;
+  color: #191919;
+}
+
+.body-bold {
+  font-family: 'Muli', sans-serif;
+  font-weight: 700;
+  color: #191919;
+}
+
+.body-italic {
+  font-style: italic;
+}
+
+.heading {
+  font-family: "petersburg-web",serif;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+
+
+/******************************** SIZES *******************/
+
+.mini {
+  font-size: .65rem;
+}
+
+.small-reg {
+  font-size: 1rem;
+}
+
+.small {
+  font-size: 1.3rem;
+}
+
