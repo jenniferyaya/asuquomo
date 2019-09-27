@@ -13,6 +13,23 @@ body, p {
   margin: 0;
 }
 
+.colour-black {
+  color: #0a130d;
+}
+
+.colour-white {
+  color: #d8ebde;
+}
+
+.colour-grey {
+  color: #636c66;
+}
+
+.colour-accent {
+  color: #0f2e18;
+}
+
+
 
 /******************************** SPACING *******************/
 .margin0 {

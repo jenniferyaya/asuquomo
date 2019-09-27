@@ -1,22 +1,26 @@
 /******************************** STYLES *******************/
 .body-reg {
-  font-family: 'Muli', sans-serif;
+  font-family: freight-sans-pro, sans-serif;
   font-weight: 400;
-  color: #191919;
-}
-
-.body-bold {
-  font-family: 'Muli', sans-serif;
-  font-weight: 700;
-  color: #191919;
+  font-style: normal;
 }
 
 .body-italic {
+  font-family: freight-sans-pro, sans-serif;
+  font-weight: 400;
   font-style: italic;
 }
 
 .heading {
-  font-family: "petersburg-web",serif;
+  font-family: freight-sans-pro, sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.heading-italic {
+  font-family: freight-sans-pro, sans-serif;
+  font-weight: 900;
+  font-style: italic;
 }
 
 .uppercase {
