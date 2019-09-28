@@ -5,10 +5,10 @@
   font-style: normal;
 }
 
-.body-italic {
-  font-family: freight-sans-pro, sans-serif;
-  font-weight: 400;
-  font-style: italic;
+.body-medium {
+font-family: freight-sans-pro, sans-serif;
+font-weight: 600;
+font-style: normal;
 }
 
 .heading {
@@ -27,7 +27,9 @@
   text-transform: uppercase;
 }
 
-
+.centre {
+  text-align: center;
+}
 
 /******************************** SIZES *******************/
 
