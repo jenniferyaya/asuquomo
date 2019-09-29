@@ -12,7 +12,7 @@
   overflow-x: hidden;
 
   height: 100%;
-  background-color: #e4e4dc;
+  background-color: #efdaab;
 }
 
 #body-merch {
@@ -45,10 +45,6 @@
   height: 100%;
 }
 
-
-
-
-
 div {
   display: block;
 }
@@ -64,11 +60,15 @@ body, p {
 
 a {
   text-decoration: none;
-  color: #0f1c13;
+  color: #232019;
+}
+
+a:hover {
+  color: #706652;
 }
 
 .colour-black {
-  color: #0f1c13;
+  color: #232019;
 }
 
 .colour-white {
@@ -76,11 +76,15 @@ a {
 }
 
 .colour-grey {
-  color: #636c66;
+  color: #706652;
 }
 
 .colour-accent {
-  color: #0f2e18;
+  color: #f1c56d;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #232019;
 }
 
 
@@ -179,9 +183,8 @@ a {
 }
 
 
-
-
 /******************************** HEADER *******************/
+
 .header-navigation p, .header-navigation h1 {
   display: inline-block;
   letter-spacing: .15rem;
@@ -198,8 +201,32 @@ a {
   padding-right: 4rem;
 }
 
+
+/*#header-navigation {
+  position: fixed;
+  top: -60px;
+  width: 100vw;
+  padding-top: 5rem;
+  padding-bottom: 0px;
+  vertical-align: baseline;
+
+  padding-bottom: 1.3rem;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************** CONTENT *******************/
 .content h2 {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 
 .content p {
@@ -221,7 +248,6 @@ a {
 }
 
 
-
 /******************************** PRESS *******************/
 
 
@@ -231,13 +257,13 @@ a {
 
 /******************************** MERCH TBD *******************/
 #body-merch {
-  background-color: #e4e4dc;
+  background-color: #f1c56d;
 }
 
 
 /******************************** LINKs page *******************/
 #body-link {
-  background-color: #e5843b;
+  background-color: #f1c56d;
 }
 
 .box-item {
@@ -335,7 +361,7 @@ a {
 }
 
 .header-navigation h1 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   padding-left: 4rem;
   padding-right: 4rem;
 }
