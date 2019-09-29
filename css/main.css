@@ -12,6 +12,7 @@
   overflow-x: hidden;
 
   height: 100%;
+  background-color: #e4e4dc;
 }
 
 #body-merch {
@@ -63,11 +64,11 @@ body, p {
 
 a {
   text-decoration: none;
-  color: #0a130d;
+  color: #0f1c13;
 }
 
 .colour-black {
-  color: #0a130d;
+  color: #0f1c13;
 }
 
 .colour-white {
@@ -218,6 +219,13 @@ a {
   color: #3d4c42;
   border-bottom: 1px solid #3d4c42;
 }
+
+
+
+/******************************** PRESS *******************/
+
+
+
 
 
 
